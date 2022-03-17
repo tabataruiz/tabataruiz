@@ -1,5 +1,5 @@
 # Hey There! 👋
-**Eu sou a Tabata Ruiz** - Eu sou Front End, apaixonada por Design e por tudo que está relacionado a experiência visual do usuário.
+**Eu sou a Tabata Ruiz** - Sou Front End, apaixonada por Design e por tudo que está relacionado a experiência visual do usuário.
 
 [![SkillIcons](https://skillicons.dev/icons?i=angular,js,html,css,sass,bootstrap,git,figma)](https://skillicons.dev)<br/>
 [^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
